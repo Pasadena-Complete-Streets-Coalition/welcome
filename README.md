@@ -8,15 +8,17 @@ Some of our repos are public and viewable by everyone while others are private a
 
 ## Usage Guide
 
-### Sign-up for todo repo
+### Sign-up for todo and sandbox repos
 The todo repo is intented for any PasCSC member to use to manage todos and projects. If you are new to GitHub, ask for help on the PasCSC Google Groups.
 
 1. Create a free github account at github.com
-2. Email your github name to Jonah and Matt and ask them to add you to the todo repo
+2. Email your github name to Jonah and Matt and ask them to add you to the todo and sandbox repos
 3. You should get an email invitation to join the repo.  Follow instructions to join.
 
 ### Sign-up for PasCSC GitHub Organization access
 PasCSC GitHub Organization access is intended for PasCSC members who are proficient GitHub users and would like to help maintain the PasCSC GitHub repos. Reach out to Jonah and Matt if you would like to help.
 
 ### Links to Repos:
-1. [todo](https://github.com/Pasadena-Complete-Streets-Coalition/todo) (private repo)
+Note - some repos are private and require an invitation to view. See Sign-up instructions
+1. [todo](https://github.com/Pasadena-Complete-Streets-Coalition/todo) - where PasCSC keeps track of projects and todos. This is a private repo.
+2. [sandbox](https://github.com/Pasadena-Complete-Streets-Coalition/sandbox) - this is a repo to practice using GitHub. Practice making issues and milestones. This is a private repo.
