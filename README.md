@@ -1,5 +1,5 @@
 # Welcome to the Pasadena Complete Streets Coalition GitHub
-Here, PasCSC manages projects and keeps track of todos.
+GitHub is where PasCSC manages projects and keeps track of todos.
 
 ## What is GitHub
 GitHub is a website where people can collaborate on projects. PasCSC uses the Repositories, Issues, and Milestones features of GitHub to manage projects and todos. In this context, you can think of GitHub Milestones as PasCSC projects and GitHub Issues as PasCSC todos and each repository (repo for short) as a collection of related projects and todos.
